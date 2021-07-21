@@ -15,7 +15,7 @@ public class FindSmall {
         return a[2];
     }
     public static void main(String args[]) {
-        int a[] = { 11,10,4, 15, 16, 13, 2 };
+        int a[] = { 11,10,4, 15, 16, 13, 2, 9};
         System.out.println("Third Smallest: " +getThirdSmallest(a));
     }
 }
