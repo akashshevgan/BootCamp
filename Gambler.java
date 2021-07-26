@@ -16,7 +16,6 @@ public class Gambler {
         int wins = 0;
         double percentWon;
 
-        // repeat trials times
         for (int t = 0; t < trials; t++)
         {
 
